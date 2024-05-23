@@ -24,9 +24,8 @@ Start uas-led as a service:
 
 To run the script, clone this repository and execute the following commands:
 
-```bash
-chmod +x led_control.sh
-sudo ./led_control.sh```
+`chmod +x led_control.sh`
+`sudo ./led_control.sh`
 
 ## Notes
 - Below are the links to the references detailing where to source the .deb, as well as an introduction to how to change the LEDs without this script.
